@@ -5,3 +5,6 @@ Frühstücksrezepte für Studenten Einfach zubereitende Frühstücksrezepte, auc
 
 ## Persona 2
 <img src="Persona2.pdf" alt="persona" style="width:200px;"/>
+
+## Wireframes
+<img src="Wireframes.pdf" alt="wireframes" style="width:200px;"/>
