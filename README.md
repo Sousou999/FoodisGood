@@ -1,5 +1,5 @@
 # FoodisGood
-Frühstücksrezepte für Studenten Einfach zubereitende Frühstücksrezepte, auch einige dabei, welche man als Mealprep kochen kann. Die Rezpte sind reichhaltig an den verschiedene wichtige Vitamine Haben bereits viele Rezepte gespeichert Die Nutzer sollen möglichkeit haben, durch den Such Feature auch bestimmte Rezepte zu suchen Ebenfalls gibt es unter jedem Rezept noch eine Einkaufsliste, indem die Studenten die bereits vorhandenen Lebensmitteln ankreuzen/abhäckeln können
+Frühstücksrezepte für Studenten. Einfach zubereitende Frühstücksrezepte, auch einige dabei, welche man als Mealprep kochen kann. Die Rezpte sind reichhaltig an den verschiedene wichtige Vitamine. Haben bereits einige Rezepte gespeichert Die Nutzer sollen möglichkeit haben, durch den Such Feature auch bestimmte Rezepte zu suchen. Ebenfalls gibt es unter jedem Rezept noch eine Einkaufsliste, indem die Studenten die bereits vorhandenen Lebensmitteln ankreuzen/abhäckeln können. Als zweiten Feature bauen wir ein Sideboard ein wo man wichtige Nahrungsmittelergänzungen kurz beschreiben und auch jeweilige Webseiten hin verlinken. 
 ## Persona 1
 <img src="Persona1.pdf" alt="persona" style="width:200px;"/>
 
