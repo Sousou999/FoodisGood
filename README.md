@@ -10,5 +10,5 @@ Frühstücksrezepte für Studenten. Einfach zubereitende Frühstücksrezepte. Di
 <img src="Wireframes.pdf" alt="wireframes" style="width:200px;"/>
 
 ## Wireframes-Nutzertest
-<img src="Nutzertest FoodisGood.pdf" alt="Nutzertest" style="width:200px;"/>
+<img src="Nutzertest FoodisGood.pdf.pdf" alt="Nutzertest" style="width:200px;"/>
 
