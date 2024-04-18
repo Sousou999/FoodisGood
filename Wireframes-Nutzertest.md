@@ -1,3 +1,3 @@
 ## Nutzertest 
-<img src="Nutzertest FoodisGood.pdf" alt="wireframes" style="width:200px;"/>
+<img src="Nutzertest FoodisGood.pdf" alt="Nutzertest FoodisGood.pdf" style="width:200px;"/>
 
