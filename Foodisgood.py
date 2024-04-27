@@ -3,12 +3,6 @@ import pandas as pd
 import random
 import streamlit_authenticator as stauth
 
-# URL zur CSV-Datei auf GitHub
-github_csv_url = 'https://github.com/Sousou999/FoodisGood/blob/ccc49ea7b96e1d0b9b69175ebc00c0ac2cde5701/recipes_forimport.csv'
-
-# Daten aus der GitHub-CSV-Datei laden
-additional_recipes_df = pd.read_csv(github_csv_url)
-
 
 # load list of passwords and logins (login_password_list.csv)
 df = pd.read_csv("login_password_list.csv")
